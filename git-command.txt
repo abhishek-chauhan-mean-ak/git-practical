@@ -1,0 +1,15 @@
+Example Commit Messages
+1. For a new feature:
+feat: A9US-T289 - Implement Edit Profile API
+2. For a bug fix:
+fix: A9US-T268 - Resolve login activity crash issue reported
+over Crashlytics
+3. For reverting a commit:
+revert: fix: A9US-T268 - Resolve login activity crash issue
+reported over Crashlytics
+This reverts commit abc1234.
+
+Example Create Branch
+1. For Feature Branch
+git checkout -b feat/ID-123
+git checkout -b feat/ID-345
